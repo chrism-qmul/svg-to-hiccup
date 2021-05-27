@@ -1,8 +1,12 @@
 # svg-to-hiccup
 
-A Clojure library designed to ... well, that part is up to you.
+Call clj-tagsoup to convert from svg to hiccup on command line.
 
 ## Usage
+
+```
+java -jar target/svg-to-hiccup-0.1.0-SNAPSHOT-standalone.jar img.svg
+```
 
 FIXME
 
